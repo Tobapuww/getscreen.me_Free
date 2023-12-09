@@ -1,1 +1,4 @@
-# getscreen.me_Free
+ 这是一个能免费运行Getscreen实例的程序
+ 首先把本仓库Fork到你的账号下
+ 运行工作流，填写你的邮箱
+ 稍等片刻即可
